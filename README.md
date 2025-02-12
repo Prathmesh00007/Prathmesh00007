@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Abhay Ranade</h1>
 <h3 align="center">I am a passionate Full stack web developer and Problem solver, currently learning blockchain fundamentals. I like to tackle real world problems, logic and intuitive thinking is my forte.</h3>
 
+- 🔭 I’m currently working on **YojanaChain**
+
+- 📫 How to reach me **prathmeshranade23@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
