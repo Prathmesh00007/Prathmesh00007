@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **YojanaChain**
 
 
-<h3 align="left">Connect with me: **prathmeshranade23@gmail.com**</h3>
+<h3 align="left">Connect with me: </h3>**prathmeshranade23@gmail.com**
 <p align="left">
 </p>
 
