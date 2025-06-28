@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Full stack web developer and Problem solver, currently learning blockchain fundamentals. I like to tackle real world problems, logic and intuitive thinking is my forte.
+I am a passionate Full stack web developer and Problem solver who loves AI. I like to tackle real world problems, logic and intuitive thinking is my forte.
 
 
 ## 🌐 Socials:
